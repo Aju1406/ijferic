@@ -1,4 +1,3 @@
- 
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -46,7 +45,7 @@
 
   gtag('config', 'UA-149568971-1');
 </script>
-        <meta name="robots" content="index, follow" />
+        <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
@@ -629,8 +628,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                                 <div class="share-content-box w-100" align="center">
                                   <h4>  Welcome to IRJMETS</h4>
-                                  <div class="jflotter">
-                                                <div class="animated-text">ISSN:2582-5208</div></div>
+                                  
                                 </div>
                                 <!-- share content box end -->
 
@@ -642,55 +640,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- post status start -->
                         <div class="card">
                             <!-- post title start -->
-                            <div class="row">  <div class="col-12" style="padding:3px;" align="center">
-<h2 style="padding:4px;">PAY PUBLICATION FEES FOR ALL AUTHORS</h2>
-<h5 style="padding:4px;">Rs.599 FOR INDIAN AUTHORS and 23$ FOR FOREIGN AUTHORS</h5>
-<h4 style="padding:4px;">Journal also provide DOI</h4>
-<h6 style="padding:4px;padding-bottom:13px"> </h6>
-</div>
-
-<div class="row">
-            <div class="col-md-12">
-                 <h5>Paper Publication or Processing Charges:-</h5>
-                 <p align="justify">International Research Journal of Modernization in Engineering Technology & Science is an Open Access journal. IRJMETS does not gain any income through selling online versions of the published articles. IRJMETS enables its readers to access the published articles free of cost.<br>
-                  IRJMETS allows its authors and readers to distribute knowledge more widely all over the world at a lower cost. However, to cover the peer review work, Administrative support, Journal development, Formatting of articles, Marketing of journal, Customer service, Operation and Maintenance of online journal system and website, DOI services, the journal depends on Article Processing Fees. 
-                 </p>
-            </div>
-</div>
-<div style="padding:20px;"></div>
-<div class="row">
-            <div class="col-md-2 col-sm-2">
-      </div>
-            <div class="col-md-8 col-sm-8">
-                <div class="pricingTable">
-                    <div class="pricingTable-header">
-                        <i class="fa fa-adjust"></i>
-                        <div class="price-value"><i class="fa fa-inr" ></i> 599/23 $<span class="month"> research paper</span> </div>
-                    </div>
-                    <h3 class="heading">Pay for research paper</h3>
-                    <div class="pricing-content">
-                        <ul>
-                            <li><b style="color:#000"><i class="fa fa-inr" ></i> 599</b> for Indian Author  ( with doi <i class="fa fa-inr"></i> 799) and  </li>
-                            <li><b style="color:#000">23 $</b> for Foreign Author  (with DOI 27 $) </li>
-                            <li><b style="color:#000"> Online Publication of</b>  research paper</li>
-                            <li><b style="color:#000">8</b> Authors Maximum </li>
-                            <li><b style="color:#000">25</b> pages Maximum  </li>
-                            <li><b style="color:#000">Free soft copy</b> of paper and certificates   </li> 
-                        </ul>
-                    </div>
-                    <div class="pricingTable-signup">
-                         
-                        <a href="payment.php?pay_id=1">Click Here to Pay for paper</a>
-                    </div>
-                </div>
-            </div>
-
-           
-              <div class="col-md-2 col-sm-2">
-      </div>
-        </div>
-</div>
-<div style="padding: 40px;"></div>
+                            <h3>Conference </h3>
+<hr>
+ <div class="row"> 
+    
+     <div class="col-sm-8" align="center">
+          National Conference on Trending Technology for Achieving Sustainable Development Goals NCTTASDG 2023 Organized by Shri Shankarprasad Agnihotri College of Engineering, Wardha
+           <div></div>
+          </div>
+     <div class="col-sm-4" align="center">
+     <a href="listvonference.php?confId=1679091c5a880faf6fb5e6087eb1b2dc&conf=National+Conference+on+Trending+Technology+for+Achieving+Sustainable+Development+Goals+NCTTASDG+2023+Organized+by+Shri+Shankarprasad+Agnihotri+College+of+Engineering%2C+Wardha">view conference paper</a>
+     </div>
+     </div> <div class="row"> 
+    
+     <div class="col-sm-8" align="center">
+          1st National Conference on Applications of soft Computing Techniques in Engineering NCASCTE-2022 Organized by Department of Electrical & Electronics Engineering, ACE Engineering College, Hyderabad
+           <div></div>
+          </div>
+     <div class="col-sm-4" align="center">
+     <a href="listvonference.php?confId=e4da3b7fbbce2345d7772b0674a318d5&conf=1st+National+Conference+on+Applications+of+soft+Computing+Techniques+in+Engineering+NCASCTE-2022+Organized+by+Department+of+Electrical+%26+Electronics+Engineering%2C+ACE+Engineering+College%2C+Hyderabad">view conference paper</a>
+     </div>
+     </div> <div class="row"> 
+    
+     <div class="col-sm-8" align="center">
+          International Conference on Recent Trends in Engineering and Technology-2020 (ICRTET) Organized by VSM College of Engineering, Ramachandrapuram, Andra Pradesh
+           <div></div>
+          </div>
+     <div class="col-sm-4" align="center">
+     <a href="listvonference.php?confId=eccbc87e4b5ce2fe28308fd9f2a7baf3&conf=International+Conference+on+Recent+Trends+in+Engineering+and+Technology-2020+%28ICRTET%29+Organized+by+VSM+College+of+Engineering%2C+Ramachandrapuram%2C+Andra+Pradesh">view conference paper</a>
+     </div>
+     </div> 
+<div style="padding: 40px;;"></div>
    
                         </div>
                         
@@ -784,7 +764,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
     <!-- Slick Slider JS -->
     <script src="assets/js/plugins/slick.min.js"></script>
-    <!-- nice select JS --> 
+    <!-- nice select JS -->
+    <script src="assets/js/plugins/nice-select.min.js"></script>
     <!-- audio video player JS -->
     <script src="assets/js/plugins/plyr.min.js"></script>
     <!-- perfect scrollbar js -->
@@ -797,14 +778,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="assets/js/plugins/isotope.pkgd.min.js"></script>
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
-    <script src="assets/js/languages/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">    </script>
-    <script src="assets/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"> </script>
-     <script>
-            jQuery(document).ready(function(){
-                jQuery("form").validationEngine('attach'); 
-            }); 
-    </script>
-    <script src="assets/js/custombasejs.js?ucj=1718788618"></script>
 
 </body>
 

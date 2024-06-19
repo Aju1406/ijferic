@@ -46,9 +46,8 @@
 
   gtag('config', 'UA-149568971-1');
 </script>
-        <meta name="robots" content="index, follow" />
+        <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
     <!-- Favicon -->
 
@@ -365,7 +364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <main>
 
-        <div class="main-wrapper pt-2">
+        <div class="main-wrapper pt-30">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 order-2 order-lg-1">
@@ -629,8 +628,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                                 <div class="share-content-box w-100" align="center">
                                   <h4>  Welcome to IRJMETS</h4>
-                                  <div class="jflotter">
-                                                <div class="animated-text">ISSN:2582-5208</div></div>
+                                  
                                 </div>
                                 <!-- share content box end -->
 
@@ -642,56 +640,118 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- post status start -->
                         <div class="card">
                             <!-- post title start -->
-                            <div class="row">  <div class="col-12" style="padding:3px;" align="center">
-<h2 style="padding:4px;">PAY PUBLICATION FEES FOR ALL AUTHORS</h2>
-<h5 style="padding:4px;">Rs.599 FOR INDIAN AUTHORS and 23$ FOR FOREIGN AUTHORS</h5>
-<h4 style="padding:4px;">Journal also provide DOI</h4>
-<h6 style="padding:4px;padding-bottom:13px"> </h6>
+                            <h3>Contact Us </h3>
+<hr>
+<div class="row"> 
+     <div class="col-sm-4" align="center">
+          <div  style="border: 1px solid #e1e1e1;padding:3px;min-height:190px;">
+          <i class="fa fa-map-marker" aria-hidden="true" style="font-size: 30px;;"></i><hr>
+           International Research Journal of Modernization in Engineering Technology & Science, Indus Satellite Green, , AB Road, Indore (Madhya Pradesh)
+          </div>
+     </div>
+     <div class="col-sm-4" align="center">
+          <div  style="border: 1px solid #e1e1e1;padding:3px;min-height:190px;">
+          <i class="fa fa-envelope" aria-hidden="true" style="font-size: 30px;;"></i><hr>
+          editor@irjmets.com
+          </div>
+     </div>
+     <div class="col-sm-4" align="center">
+          <div  style="border: 1px solid #e1e1e1;padding:3px;min-height:190px;">
+          <i class="fa fa-phone" aria-hidden="true" style="font-size: 30px;;"></i><hr>
+          +91 786-969-67-94 , +91 786-986-27-10 (Whatsapp or SMS on this numbers)
+          </div> 
+     </div>
 </div>
+<div style="padding: 40px;;"></div>
+<h3>Send Contact Request</h3><hr>
 
-<div class="row">
-            <div class="col-md-12">
-                 <h5>Paper Publication or Processing Charges:-</h5>
-                 <p align="justify">International Research Journal of Modernization in Engineering Technology & Science is an Open Access journal. IRJMETS does not gain any income through selling online versions of the published articles. IRJMETS enables its readers to access the published articles free of cost.<br>
-                  IRJMETS allows its authors and readers to distribute knowledge more widely all over the world at a lower cost. However, to cover the peer review work, Administrative support, Journal development, Formatting of articles, Marketing of journal, Customer service, Operation and Maintenance of online journal system and website, DOI services, the journal depends on Article Processing Fees. 
-                 </p>
-            </div>
-</div>
-<div style="padding:20px;"></div>
-<div class="row">
-            <div class="col-md-2 col-sm-2">
-      </div>
-            <div class="col-md-8 col-sm-8">
-                <div class="pricingTable">
-                    <div class="pricingTable-header">
-                        <i class="fa fa-adjust"></i>
-                        <div class="price-value"><i class="fa fa-inr" ></i> 599/23 $<span class="month"> research paper</span> </div>
-                    </div>
-                    <h3 class="heading">Pay for research paper</h3>
-                    <div class="pricing-content">
-                        <ul>
-                            <li><b style="color:#000"><i class="fa fa-inr" ></i> 599</b> for Indian Author  ( with doi <i class="fa fa-inr"></i> 799) and  </li>
-                            <li><b style="color:#000">23 $</b> for Foreign Author  (with DOI 27 $) </li>
-                            <li><b style="color:#000"> Online Publication of</b>  research paper</li>
-                            <li><b style="color:#000">8</b> Authors Maximum </li>
-                            <li><b style="color:#000">25</b> pages Maximum  </li>
-                            <li><b style="color:#000">Free soft copy</b> of paper and certificates   </li> 
-                        </ul>
-                    </div>
-                    <div class="pricingTable-signup">
-                         
-                        <a href="payment.php?pay_id=1">Click Here to Pay for paper</a>
-                    </div>
-                </div>
-            </div>
+<form id="theme-form" action="forms/fmwebcontactmaster.php" class="form theme-form"  method="post" enctype="multipart/form-data" onsubmit="document.getElementById("submit").disabled=true;">
+		<!----DATA ADDED----->
+			
+			<div class="form-group row">
+			<label class="col-sm-3 col-form-label">Contact Name <span class="text-danger">*</span></label>
+				<div class="col-sm-3">
+			<input type="text" name="YDAPNNAcontact_name" id="YDAPNNAcontact_name" data-prompt-position="inline" class="form-control validate[required,custom[fullname]] text-input" placeholder="Type Contact Name ">
+				  </div>
+				<div class="col-sm-3">
+			<label class="col-sm-3 col-form-label">Email Id <span class="text-danger">*</span></label>
+				</div>
+				<div class="col-sm-3">
+			<input type="text" name="YDAPNNAemail_id" id="YDAPNNAemail_id" data-prompt-position="inline" class="form-control validate[required,custom[email]] text-input" placeholder="Type Email Id ">
+				</div>
+			</div>
 
-           
-              <div class="col-md-2 col-sm-2">
-      </div>
-        </div>
-</div>
-<div style="padding: 40px;"></div>
    
+  
+ 
+		<!----DATA ADDED----->
+			
+			<div class="form-group row">
+			<label class="col-sm-3 col-form-label">Mobile Number <span class="text-danger">*</span></label>
+				<div class="col-sm-3">
+			<input type="text" name="YDAPNNAmobile_number" id="YDAPNNAmobile_number" data-prompt-position="inline" class="form-control validate[required,custom[phone]] text-input" placeholder="Type Mobile Number"  maxlength="10 ">
+				  </div> 
+                      <div class="col-sm-3">
+                      <label class="col-sm-12 col-form-label">Type Of Contact </label>
+                      </div>
+                      <div class="col-sm-3">
+                           <select data-prompt-position="inline" class="form-control validate[required] text-input" id="YDAPNNAtype_of_contact" name="YDAPNNAtype_of_contact">
+				<option value="">Select One</option> <option value="0"    >inquiry</option>  <option value="1"    >Regarding Paper</option>  <option value="2"    >Payment Issue</option>  <option value="3"    >Other</option>     </select>
+                      </div>
+			</div>
+
+  
+ 
+		<!----DATA ADDED----->
+			
+			<div class="form-group row">
+			<label class="col-sm-3 col-form-label">Subject <span class="text-danger">*</span></label>
+				<div class="col-sm-9">
+			<input type="text" name="YDAPNNAsubject" id="YDAPNNAsubject" data-prompt-position="inline" class="form-control validate[required] text-input" placeholder="Type Subject ">
+				  </div> 
+			</div>
+
+  
+ 
+		<!----DATA ADDED----->
+			 
+		<div class="form-group row">
+		<label class="col-sm-3 col-form-label">Contact Message <span class="text-danger">*</span></label>
+			<div class="col-sm-9">
+
+					<textarea  name="YDAPNNAcontact_message" id="YDAPNNAcontact_message" data-prompt-position="inline" class="form-control validate[required,minSize[3],maxSize[5000]] text-input summernote" placeholder="Type Contact Message"></textarea>
+		      </div>
+		</div>
+		<div class="form-group row">
+		<label class="col-sm-3 control-label"> Validation code : <span class="text-danger">*</span></label>
+		<div class="col-sm-4">
+			<img src="captcha.php?rand=132787498" id="captchaimg"> 
+				<div>Can\'t read the image? <a href="javascript:void(0)" onclick="refreshCaptcha();" style="color:#093"><strong>reload. </strong></a>
+			</div>
+		</div>
+		<div class="col-sm-4" >
+			<input  name="YDAPNNAcaptcha_code" type="text"class="form-control validate[required,ajax[ajaxCaptcha]] text-input" id="YDAPNNAcaptcha_code"  data-prompt-position="inline" maxlength="5">
+		</div>
+	</div>
+
+ 
+  
+
+			<hr>
+						
+
+				<div class="row">
+					<div class="col-sm-12">
+						<input name="YDAPNNArefIds" id="YDAPNNArefIds" type="hidden" value="0"> 
+						<input name="YDAPNNApraumeter" id="YDAPNNApraumeter" type="hidden" value="2">
+						<input type="hidden" id="YDAPNNAposttok" name="YDAPNNAposttok" value="238d2af3236645c63abd27f87f63528e" /> 
+						<input name="praumeter" id="praumeter" type="hidden" value="1"> 
+						<button class="btn btn-secondary" id="formsubmit">Send</button> 
+						<button class="btn btn-info" type="reset" id="formsubmit">Clear</button>
+					</div>
+				</div>
+				
+			</form>  
                         </div>
                         
                         <!-- post status end -->
@@ -784,7 +844,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
     <!-- Slick Slider JS -->
     <script src="assets/js/plugins/slick.min.js"></script>
-    <!-- nice select JS --> 
+    <!-- nice select JS -->
+    <script src="assets/js/plugins/nice-select.min.js"></script>
     <!-- audio video player JS -->
     <script src="assets/js/plugins/plyr.min.js"></script>
     <!-- perfect scrollbar js -->
@@ -799,13 +860,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/languages/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">    </script>
     <script src="assets/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"> </script>
-     <script>
-            jQuery(document).ready(function(){
-                jQuery("form").validationEngine('attach'); 
-            }); 
-    </script>
-    <script src="assets/js/custombasejs.js?ucj=1718788618"></script>
 
+    <script src="assets/js/custombasejs.js"></script>
+    <script>
+            jQuery(document).ready(function(){
+                jQuery("form").validationEngine('attach'); }); 
+    </script>
 </body>
 
 </html>

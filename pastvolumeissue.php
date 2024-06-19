@@ -5,11 +5,15 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-     <title>IRJMETS-Low Cost Journal with DOI  |Rs. 599  publication fees |In 4 hr paper published| Engineering, Scientific journal </title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>IRJMETS - Low Cost Journal with DOI | Rs. 599  publication fees| In 4 hr paper published | Engineering, Scientific journal </title>
+     
+   
 <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
-<meta name="keywords" content="IRJMETS, Low Cost Journal Publication Website, Lowest publication fees With DOI, DOI, Publication fees Rs. 500, fast paper publication site, Publication fees Rs. 1000, journal publication fees in india, international journals with free publication charges very less fees journal, Best reputed journal, Minimum publication fees, Minimum fees Journal, Minimum cost International Journal, International Journal, Irjmets is Low cost journal, Top rating Journal, journal with publication fees under 1000, Publication fees under 500, High Impact factor low cost journal, Free paper publishing, very low publication fees, international journal publication fees 599  Rs., journal with publication fees less then 1000, Engineering Journal, Low price Journal for civil engineering, Low price journal for Mechanical engineering, Journal for research, Journal for applied science, Journal for electronics and communication, journal for electronic and instrumentation, Journal for electrical and electronics, journal with publification fees less than 20 dollar, Journal for advance research, Journal for advance engineering, Irjmets is good in price, Science Journal, Computer sciene journal, scientific journal, Technology journal, open acess, low cost journal publication, International Journal, science journal, Fast processing journal, IRJMETS is fast publishing engineering journal, Technology Journal, journal with high impact factor, Int journal,  international journal with low publication fess, fast publication journal, Fast paper publication with DOI, Paper publication fees, One day publishing journal, Rapid publishing journal, paper publish online, Engineering journal for Mtech student, Engineering journal for BE student, Msc student journal, Mirobiology journal, Paper publish in 24 Hour,  fast journal to publish research paper, Journal for applied physics, Journal for applied science, UGC guideline journal with DOI, Get free DOI, Scientific journal for mathematics, IRJMETS, Journal under 500 rs, Fast publishing journal in engineering, fast publication in mechanical engineering, fast publication in civil engineering, fast publication in electrical engineering, fast publication in computer science engineering, fast publication in management, journal for mba, JOURNAL OF SCIENCE AND TECHNOLOGY UNDER 500. Journal under 23 $, 23 dollar engineering journal, " />
-<meta name="description" content="Low cost journaL, IRJMETS has 599  Rs. Publication fees, Publish paper in 4 hr, Int Journal for Engineering Science and technology Student, scientific journal" />
+<meta name="keywords" content="IRJMETS, International Research Journal of Modernization in Engineering Technology and Science, Lowest publication fees, Publication with DOI, Publication fees Rs. 500, Publication fees Rs. 1000, very less fees journal, Best reputed journal, Minimum publication fees, Minimum fees Journal, Minimum cost International Journal, International Journal, Irjmets is Low cost journal, Top rating Journal, journal with publication fees under 1000, Publication fees under 500, High Impact factor low cost journal, Free paper publishing, very low publication fees, international journal publication fees 599  Rs., journal with publication fees less then 1000, Engineering Journal, Low price Journal for civil engineering, Low price journal for Mechanical engineering, Journal for research, Journal for applied science, Journal for electronics and communication, journal for electronic and instrumentation, Journal for electrical and electronics, journal with publification fees less than 20 dollar, Journal for advance research, Journal for advance engineering, Irjmets is good in price, Science Journal, Computer sciene journal, scientific journal, Technology journal, open acess, low cost journal publication, International Journal, science journal, Fast processing journal, IRJMETS is fast publishing engineering journal, Technology Journal, journal with high impact factor, Int journal,  international journal with low publication fess, fast publication journal,Paper publication fees, One day publishing journal, Rapid publishing journal, paper publish online, Engineering journal for Mtech student, Engineering journal for BE student, Msc student journal, Mirobiology journal, Paper publish in 24 Hour,  fast journal to publish research paper, Journal for applied physics, Journal for applied science, Scientific journal for mathematics, IRJMETS, Journal under 500 rs, Fast publishing journal in engineering, fast publication in mechanical engineering, fast publication in civil engineering, fast publication in electrical engineering, fast publication in computer science engineering, fast publication in management, journal for mba, JOURNAL OF SCIENCE AND TECHNOLOGY UNDER 500. Journal under 23 $, 23 dollar engineering journal, " />
+<meta name="description" content="IRJMETS has 599  Rs. Publication fees, Publish paper in 4 hr, Int Journal for Engineering Science and technology Student, scientific journal" />
 <meta name="author" content="IRJMETS - International Research Journal of Modernization in Engineering Technology and Science" />
+ <meta name="robots" content="index,follow" />
 <meta property="og:description" content="IRJMETS has 599  Rs. Publication fees, Publish paper in 4 hr, Journal for Engineering Science and technology Student, scientific journal" />
 <!-- link to post which you want to share -->
 <meta property="og:url" content="https://irjmets.com" />
@@ -46,15 +50,10 @@
 
   gtag('config', 'UA-149568971-1');
 </script>
-        <meta name="robots" content="index, follow" />
-    <meta name="description" content="">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
-    <!-- Favicon -->
-
-    <!-- CSS
-	============================================ -->
-    <!-- google fonts -->
+    
+   
+   <meta name="robots" content="index,follow" />
+    
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900" rel="stylesheet">
      <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -119,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
  </div>       
          
-             <!-- header area start -->
+           
     <header>
 <div class="header-top sticky bg-green ">
 <div class="container">
@@ -359,10 +358,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      </div>
 </div>
 </div>
-</header>    <!-- header area end -->
-    <!-- header area start -->
-        <!-- header area end -->
-
+</header>  
     <main>
 
         <div class="main-wrapper pt-2">
@@ -623,78 +619,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </aside>                    </div>
 
                     <div class="col-lg-9 order-1 order-lg-2">
-                        <!-- share box start -->
+                       
                         <div class="card card-small">
                             <div class="share-box-inner">
                                 
                                 <div class="share-content-box w-100" align="center">
                                   <h4>  Welcome to IRJMETS</h4>
-                                  <div class="jflotter">
-                                                <div class="animated-text">ISSN:2582-5208</div></div>
+                                   
                                 </div>
-                                <!-- share content box end -->
-
+                             
                                 
                             </div>
                         </div>
-                        <!-- share box end -->
-
-                        <!-- post status start -->
+                       
                         <div class="card">
-                            <!-- post title start -->
-                            <div class="row">  <div class="col-12" style="padding:3px;" align="center">
-<h2 style="padding:4px;">PAY PUBLICATION FEES FOR ALL AUTHORS</h2>
-<h5 style="padding:4px;">Rs.599 FOR INDIAN AUTHORS and 23$ FOR FOREIGN AUTHORS</h5>
-<h4 style="padding:4px;">Journal also provide DOI</h4>
-<h6 style="padding:4px;padding-bottom:13px"> </h6>
-</div>
-
-<div class="row">
-            <div class="col-md-12">
-                 <h5>Paper Publication or Processing Charges:-</h5>
-                 <p align="justify">International Research Journal of Modernization in Engineering Technology & Science is an Open Access journal. IRJMETS does not gain any income through selling online versions of the published articles. IRJMETS enables its readers to access the published articles free of cost.<br>
-                  IRJMETS allows its authors and readers to distribute knowledge more widely all over the world at a lower cost. However, to cover the peer review work, Administrative support, Journal development, Formatting of articles, Marketing of journal, Customer service, Operation and Maintenance of online journal system and website, DOI services, the journal depends on Article Processing Fees. 
-                 </p>
-            </div>
-</div>
-<div style="padding:20px;"></div>
-<div class="row">
-            <div class="col-md-2 col-sm-2">
-      </div>
-            <div class="col-md-8 col-sm-8">
-                <div class="pricingTable">
-                    <div class="pricingTable-header">
-                        <i class="fa fa-adjust"></i>
-                        <div class="price-value"><i class="fa fa-inr" ></i> 599/23 $<span class="month"> research paper</span> </div>
-                    </div>
-                    <h3 class="heading">Pay for research paper</h3>
-                    <div class="pricing-content">
-                        <ul>
-                            <li><b style="color:#000"><i class="fa fa-inr" ></i> 599</b> for Indian Author  ( with doi <i class="fa fa-inr"></i> 799) and  </li>
-                            <li><b style="color:#000">23 $</b> for Foreign Author  (with DOI 27 $) </li>
-                            <li><b style="color:#000"> Online Publication of</b>  research paper</li>
-                            <li><b style="color:#000">8</b> Authors Maximum </li>
-                            <li><b style="color:#000">25</b> pages Maximum  </li>
-                            <li><b style="color:#000">Free soft copy</b> of paper and certificates   </li> 
-                        </ul>
-                    </div>
-                    <div class="pricingTable-signup">
-                         
-                        <a href="payment.php?pay_id=1">Click Here to Pay for paper</a>
-                    </div>
-                </div>
-            </div>
-
-           
-              <div class="col-md-2 col-sm-2">
-      </div>
-        </div>
-</div>
-<div style="padding: 40px;"></div>
+                            
+                            
+<form action="pastvolumeissue.php" method="get"><div class="row" style="border-bottom:1px solid #e1e1e1; padding:5px;"> 
+          <div class="col-sm-9"><select class="form-control validate[required] text-input" id="p" name="p"><option value="">Select One</option> <optgroup label="Volume 1"><option value="17" >Issue 1, December 2019</option> </optgroup> <optgroup label="Volume 2"><option value="30" >Issue 12. December 2020</option><option value="29" >Issue 11, November 2020</option><option value="28" >Issue 10, October 2020</option><option value="27" >Issue 9, September 2020</option><option value="26" >Issue 8, August 2020</option><option value="25" >Issue 7, July 2020</option><option value="23" >Issue 6, June 2020</option><option value="22" >Issue 5, May 2020</option><option value="21" >Issue 3, March 2020</option><option value="20" >Issue 4, April 2020</option><option value="19" >Issue 2, February 2020</option><option value="18" >Issue 1, January 2020</option> </optgroup> <optgroup label="Volume 3"><option value="43" >Issue 12, December 2021</option><option value="42" >Issue 11, November 2021</option><option value="41" >Issue 10, October 2021</option><option value="40" >Issue 9, September 2021</option><option value="39" >Issue 8, August 2021</option><option value="37" >Issue 7, July 2021</option><option value="36" >Issue 6 June 2021</option><option value="35" >Issue 5, May 2021</option><option value="34" >Issue 4, April 2021</option><option value="33" >Issue 3, March 2021</option><option value="32" >issue 2, February 2021</option><option value="31" >Issue 1, January 2021</option> </optgroup> <optgroup label="Volume 4"><option value="55" >Issue 12, December 2022</option><option value="54" >Issue 11, November 2022</option><option value="53" >Issue 10, October 2022</option><option value="52" >Issue 9, September 2022</option><option value="51" >Issue 8, August 2022</option><option value="50" >Issue 7, July 2022</option><option value="49" >Issue 6, June 2022</option><option value="48" >Issue 5, May 2022</option><option value="47" >Issue 4, April 2022</option><option value="46" >Issue 3, March 2022</option><option value="45" >Issue 2, February 2022</option><option value="44" >Issue 1, January 2022</option> </optgroup> <optgroup label="Volume 5"><option value="67" >Issue 12, December 2023</option><option value="66" >Issue 11, November 2023</option><option value="65" >Issue 10, October 2023</option><option value="64" >Issue 9, September 2023</option><option value="63" >Issue 8, August 2023</option><option value="62" >Issue 7, July 2023</option><option value="61" >Issue 6, June 2023</option><option value="60" >Issue 5, May 2023</option><option value="59" >Issue 4, April 2023</option><option value="58" >Issue 3, March 2023</option><option value="57" >Issue 2, February 2023</option><option value="56" >Issue 1, January 2023</option> </optgroup> <optgroup label="Volume 6"><option value="73" >Issue 6, June 2024</option><option value="72" >Issue 5, May 2024</option><option value="71" >Issue 4, April 2024</option><option value="70" >Issue 3, March 2024</option><option value="69" >Issue 2, February 2024</option><option value="68" >Issue 1, January 2024</option> </optgroup> </select></div> 
+          <div class="col-sm-3"><button type="submit">Show</button></div>
+     </div></form> 
+<div style="padding: 40px;;"></div>
    
                         </div>
                         
-                        <!-- post status end -->
+                     
 
                     </div>
 
@@ -766,17 +715,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="scroll-top not-visible">
         <i class="bi bi-finger-index"></i>
     </div>
-    <!-- Scroll to Top End -->    <!-- footer area start -->
+    <!-- Scroll to Top End -->    
     <footer class="d-none d-lg-block">
  
-</footer>    <!-- footer area end -->
-    <!-- footer area start -->
-         <!-- footer area end -->
-
-    <!-- JS
-============================================ -->
-
-    <!-- Modernizer JS -->
+</footer>   
+        
     <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
     <!-- jQuery JS -->
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
@@ -797,14 +740,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="assets/js/plugins/isotope.pkgd.min.js"></script>
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
-    <script src="assets/js/languages/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">    </script>
-    <script src="assets/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"> </script>
-     <script>
-            jQuery(document).ready(function(){
-                jQuery("form").validationEngine('attach'); 
-            }); 
-    </script>
-    <script src="assets/js/custombasejs.js?ucj=1718788618"></script>
 
 </body>
 
