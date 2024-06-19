@@ -1,19 +1,6 @@
-
-
-                    <div class="col-lg-9 order-1 order-lg-2">
-                        <!-- share box start -->
-                        <div class="card card-small">
-                            <div class="share-box-inner">
-                                
-                                <div class="share-content-box w-100" align="center">
-                                  <h4>  Welcome to IRJMETS</h4>
-                                </div>
-                                <!-- share content box end -->
-
-                                
-                            </div>
-                        </div>
-                        <!-- share box end -->
+<?php
+include ('include.php'); 
+ ?>
 
                         <!-- post status start -->
                         <div class="card">
@@ -23,13 +10,13 @@
 </div>
  
                                 <div class="row">  <div class="col-6" style="padding:3px;">
-                       <a href="https://search.crossref.org/?from_ui=yes&q=irjmets" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/17/17_2023081954080828.jpg"> </a>
+                       <a href="https://search.crossref.org/?from_ui=yes&q=IJFER " target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/17/17_2023081954080828.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
-                       <a href="https://www.slideshare.net/IRJMETSJOURNAL/edit_my_uploads" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/16/16_2021011820010908.jpg"> </a>
+                       <a href="https://www.slideshare.net/IJFER JOURNAL/edit_my_uploads" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/16/16_2021011820010908.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
-                       <a href="https://www.scribd.com/user/499343572/IRJMETS-JOURNAL" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/15/15_2021121820120935.jpg"> </a>
+                       <a href="https://www.scribd.com/user/499343572/IJFER -JOURNAL" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/15/15_2021121820120935.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
                        <a href="http://sjifactor.com/passport.php?id=21136" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/14/14_2021111539110822.jpg"> </a>
@@ -41,16 +28,16 @@
                        <a href="http://nsl.niscair.res.in/ISSNPROCESS/issn.jsp" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/12/12_2021120717120854.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
-                       <a href="https://irjmets.com/index.php" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/11/11_2021100753100853.jpg"> </a>
+                       <a href="https://IJFER .com/index.php" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/11/11_2021100753100853.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
-                       <a href="https://irjmets.com/index.php" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/10/10_2021100756100803.jpg"> </a>
+                       <a href="https://IJFER .com/index.php" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/10/10_2021100756100803.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
                        <a href="https://issuu.com/signin" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/9/9_2021100727100816.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
-                       <a href="https://irjmets.academia.edu/research" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/8/8_2021100720100822.jpg"> </a>
+                       <a href="https://IJFER .academia.edu/research" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/8/8_2021100720100822.jpg"> </a>
                         </div>
                          <div class="col-6" style="padding:3px;">
                        <a href="https://www.mendeley.com/reference-manager/library/all-references" target="_blank"><img src="adminroot/uploaddir/indexing_master/photo/7/7_2021100714100837.jpg"> </a>
@@ -87,7 +74,7 @@
      <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></p>
  
 
-     <p class="ls1 font-weight-light" style="opacity: 0.6; font-size: 13px;">copyright &copy; 2024 IRJMETS all rights reserved  </p>
+     <p class="ls1 font-weight-light" style="opacity: 0.6; font-size: 13px;">copyright &copy; 2024 IJFER  all rights reserved  </p>
      <div>
             <a href="termsandcondition.php" style="color:#FFF">Term And Conditions</a>  |  <a href="privacypolicies.php" style="color:#FFF">Privacy Policy</a>   |  <a href="publicationethics.php" style="color:#FFF">Publication-Ethics</a>  |  <a href="peerreviewprocess.php" style="color:#FFF">Peer Review Process</a>  |  <a href="contact.php" style="color:#FFF">Contact Us</a> 
 
@@ -103,15 +90,15 @@
          
 
           <div class="bottommargin-sm clearfix">
-               <a href="https://www.facebook.com/Irjmets-125602252168672" class="social-icon si-colored si-small si-rounded si-facebook" title="Facebook" target="_blank">
+               <a href="https://www.facebook.com/IJFER -125602252168672" class="social-icon si-colored si-small si-rounded si-facebook" title="Facebook" target="_blank">
                     <i class="fa fa-facebook-official" style="font-size:22px"></i> 
                </a>
 
-               <a href="https://twitter.com/irjmets" class="social-icon si-colored si-small si-rounded si-twitter" title="Twitter" target="_blank">
+               <a href="https://twitter.com/IJFER " class="social-icon si-colored si-small si-rounded si-twitter" title="Twitter" target="_blank">
                     <i class="fa fa-twitter" style="font-size:22px"></i> 
                </a>
 
-               <a href="https://www.instagram.com/irjmets" class="social-icon si-colored si-small si-rounded si-instagram" title="Instagram" target="_blank">
+               <a href="https://www.instagram.com/IJFER " class="social-icon si-colored si-small si-rounded si-instagram" title="Instagram" target="_blank">
                     <i class="fa fa-instagram" style="font-size:22px"></i> 
                </a>
 
@@ -130,7 +117,7 @@
 </footer>
  <!-- Scroll to top start -->
     <div class="scroll-top not-visible">
-        <i class="bi bi-finger-index"></i>
+        <i class="fas fa-arrow-up"></i>
     </div>
     <!-- Scroll to Top End -->    <!-- footer area start -->
     <footer class="d-none d-lg-block">
