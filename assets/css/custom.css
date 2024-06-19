@@ -1,0 +1,139 @@
+.jflotterh {
+    color: #f574ca;
+    font-weight: 800;
+    position: absolute;
+    left: 0;
+    top: 0
+}
+
+.wid {
+    max-height: 110px;
+    max-width: 900px
+}
+
+@media screen and (max-width:600px) {
+    .wid {
+        max-height: 110px;
+        max-width: 650px !important
+    }
+}
+
+
+.h1style {
+    
+    font-size: 1.5rem;
+    color: #4110ca;
+    text-align: center
+}
+
+.cent {
+    text-align: center
+}
+
+s .pt-180 {
+    padding-top: 204px
+}
+
+.navbar {
+    margin-left: 178px
+}
+
+@media(max-width:767px) {
+    .navbar .navbar-collapse.collapsing {
+        height: auto !important
+    }
+    .navbar .lateral-left {
+        left: -100%;
+        animation: slide-out-left .2s forwards
+    }
+    .navbar .lateral-left.open {
+        animation: slide-in-left .2s forwards
+    }
+    .navbar .lateral-right {
+        right: -100%;
+        animation: slide-out-right .2s forwards
+    }
+    .navbar .lateral-right.open {
+        animation: slide-in-right .2s forwards
+    }
+    .navbar .navbar-collapse {
+        top: 0;
+        bottom: 0;
+        position: fixed;
+        width: 80%;
+        width: calc(100% - 60px);
+        max-width: 190px;
+        height: auto !important;
+        background: #bd465a !important;
+        padding: 30px;
+        top: 61px;
+        margin-left: -20px;
+        height: 370px !important
+    }
+    .navbar .lateral-left.open,
+    .navbar .lateral-right.open {
+        display: block !important;
+        overflow-y: auto
+    }
+    .sticky {
+        height: 70px;
+        top: 0
+    }
+    .fixedhen {
+        margin-top: 70px !important
+    }
+    .pt-180 {
+        padding-top: 390px
+    }
+    .navbar {
+        top: -44px;
+        margin-left: 0;
+        overflow-y: scroll
+    }
+    .header-top-navigation ul li .message-dropdown {
+        width: 150px !important
+    }
+    ul li:nth-child(n)::before {
+        content: ""
+    }
+}
+
+@keyframes slide-in-left {
+    0% {
+        left: -100%
+    }
+    100% {
+        left: 0
+    }
+}
+
+@keyframes slide-out-left {
+    0% {
+        left: 0
+    }
+    100% {
+        left: -100%
+    }
+}
+
+@keyframes slide-in-right {
+    0% {
+        right: -100%
+    }
+    100% {
+        right: 0
+    }
+}
+
+@keyframes slide-out-right {
+    0% {
+        right: 0
+    }
+    100% {
+        right: -100%
+    }
+}
+
+.header-top-navigation ul li {
+    display: flex !important
+}
